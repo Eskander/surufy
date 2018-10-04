@@ -1,0 +1,2 @@
+## This file assures the generation of Surufied icons for new installs
+DPkg::Post-Invoke {"python3 /usr/lib/surufy/surufy.py";};
