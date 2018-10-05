@@ -10,8 +10,7 @@ The idea came from some Android phone manufacturers that shape their default ico
 ## How to install
 First install the dependencies
 ```
-sudo apt install libmagickwand-dev python3-pip
-sudo pip3 install Wand
+sudo apt install libmagickwand-dev python3-wand
 ```
 Then proceed with downloading the necessary files
 ```
