@@ -10,7 +10,8 @@ The idea came from some Android phone manufacturers that shape their default ico
 ## How to install
 First install the dependencies
 ```
-sudo apt install libmagickwand-dev python3-wand
+sudo apt install libmagickwand-dev
+sudo pip3 install Wand colorthief
 ```
 Then proceed with downloading the necessary files
 ```
