@@ -1,6 +1,8 @@
 # Surufy
 Add Suru-style mask for your non-Suru iconed programs on Ubuntu with Yaru theme.
 
+*NOTE: DEPRECATED:* Yaru theme no longer have squircle icons.
+
 ![screenshot][1]
 
 #### Warning: This is an experimental, a pre-alpha, a non guaranteed to work script.
